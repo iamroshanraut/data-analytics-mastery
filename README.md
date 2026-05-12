@@ -354,7 +354,7 @@ Interview Prep  ░░░░░░░░░░   0% ⏳
 
 I document everything publicly on LinkedIn — the wins, the struggles, and the breakthroughs.
 
-👉 **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-HERE](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
+👉 **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-HERE](https://www.linkedin.com/in/roshanraut012/)
 
 If you're also learning — let's connect and grow together! 🙌
 
