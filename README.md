@@ -3,8 +3,6 @@
 > Learning Python from absolute scratch — documenting every single day publicly.
 > No shortcuts. No skipping. Just consistency. 💪
 
-[![LinkedIn](https://img.shields.io/badge/Follow%20Journey-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR-USERNAME?style=for-the-badge)](https://github.com/YOUR-USERNAME)
 
 ---
 
@@ -152,7 +150,7 @@ print(type(is_student))# <class 'bool'>
 
 I post daily updates on LinkedIn — the struggle, the wins, and everything in between.
 
-👉 **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-HERE](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
+👉 **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-HERE](https://www.linkedin.com/in/roshanraut012/)
 
 If you're also learning — let's connect and grow together! 🙌
 
