@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roshanraut012)
 [![GitHub followers](https://img.shields.io/github/followers/iamroshanraut?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/iamroshanraut)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-1D9E75?style=for-the-badge&logo=statuspage&logoColor=white)
-![Started](https://img.shields.io/badge/Started-May%202025-orange?style=for-the-badge&logo=googlecalendar&logoColor=white)
+![Started](https://img.shields.io/badge/Started-Feb%202026-orange?style=for-the-badge&logo=googlecalendar&logoColor=white)
 
 </div>
 
@@ -392,6 +392,6 @@ If this repo helps or inspires you:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=100&section=footer" width="100%"/>
 
-*Started: May 2025 · Goal: Data Analyst Role · Status: In Progress 🔥*
+*Started: Feb 2026 · Goal: Data Analyst Role · Status: In Progress 🔥*
 
 </div>
