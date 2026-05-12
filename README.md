@@ -1,156 +1,360 @@
-# 🐍 100 Days of Python for Data Analytics
+# 📊 Data Analytics Mastery
 
-> Learning Python from absolute scratch — documenting every single day publicly.
+> From absolute zero to job-ready Data Analyst — learning everything in public.
 > No shortcuts. No skipping. Just consistency. 💪
 
+[![LinkedIn](https://img.shields.io/badge/Follow%20Journey-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
+[![GitHub followers](https://img.shields.io/github/followers/YOUR-USERNAME?style=for-the-badge)](https://github.com/YOUR-USERNAME)
+![Status](https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge)
 
 ---
 
 ## 👋 About This Journey
 
-I started this challenge with **zero Python knowledge**.
+I started this with **zero knowledge** in data analytics.
 
-My goal: become a **job-ready Data Analyst** by learning Python from scratch,
-one day at a time, completely in public.
+My goal: master every tool a modern Data Analyst needs —
+Python, NumPy, Pandas, SQL, GenAI, Visualization, Power BI, Excel, Statistics, Cloud and more.
 
-Every day I:
-- ✅ Learn a new concept
+Every topic I:
+- ✅ Learn the concept properly
 - ✅ Write real practice code
-- ✅ Document my notes
-- ✅ Share on LinkedIn
+- ✅ Document personal notes
+- ✅ Share progress on LinkedIn
 
 ---
 
 ## 🎯 End Goal
 
-- [ ] Master Python fundamentals
-- [ ] Learn Pandas & NumPy for data analysis
-- [ ] Learn data visualization (Matplotlib, Seaborn)
-- [ ] Complete real-world data projects
-- [ ] Land a Data Analyst role 🚀
+- [ ] Master Python for Data Analytics
+- [ ] Data wrangling with NumPy & Pandas
+- [ ] SQL for real-world business problems
+- [ ] Generative AI integration for analytics
+- [ ] Data visualization with Matplotlib & Seaborn
+- [ ] Dashboards with Power BI & Tableau
+- [ ] Advanced Excel for reporting
+- [ ] Statistics & Maths for ML
+- [ ] Cloud tools & GitHub workflows
+- [ ] Build a portfolio that gets me hired 🚀
 
 ---
 
-## 📅 Progress Tracker
+## 📚 Complete Curriculum & Progress
 
-| Day | Topic | Code | Status |
-|-----|-------|------|--------|
-| 01 | Why Python? — Intro & Setup | [Day 01](./Day01_Why_Python/) | ✅ Done |
-| 02 | Data Types — int, float, string, boolean | [Day 02](./Day02_Data_Types/) | ✅ Done |
-| 03 | Type Casting — int(), float(), str() | [Day 03](./Day03_Type_Casting/) | ✅ Done |
-| 04 | Conditional Statements — if, elif, else | [Day 04](./Day04_Conditionals/) | ✅ Done |
-| 05 | Loops — for, while, break, continue | [Day 05](./Day05_Loops/) | ✅ Done |
-| 06 | Data Structures — List, Tuple, Set, Dict | [Day 06](./Day06_Data_Structures/) | ✅ Done |
-| 07 | Functions — def, lambda, map(), filter() | [Day 07](./Day07_Functions/) | ✅ Done |
-| 08 | List Comprehension — one-line loops | [Day 08](./Day08_List_Comprehension/) | ✅ Done |
-| 09 | String Methods — split, strip, regex | [Day 09](./Day09_String_Methods/) | ✅ Done |
-| 10 | File Handling — CSV & JSON | [Day 10](./Day10_File_Handling/) | ✅ Done |
-| 11 | Error Handling — try, except, custom errors | [Day 11](./Day11_Error_Handling/) | ✅ Done |
-| 12 | Coming soon... | — | ⏳ |
-| 13 | Coming soon... | — | ⏳ |
-| 14 | Coming soon... | — | ⏳ |
-| 15 | Coming soon... | — | ⏳ |
-| 16 | Coming soon... | — | ⏳ |
-| 17 | Coming soon... | — | ⏳ |
-| 18 | Coming soon... | — | ⏳ |
-| 19 | Coming soon... | — | ⏳ |
-| 20 | Coming soon... | — | ⏳ |
-| 21 | Coming soon... | — | ⏳ |
-| 22 | Coming soon... | — | ⏳ |
-| 23 | Coming soon... | — | ⏳ |
-| 24 | Coming soon... | — | ⏳ |
-| 25 | Coming soon... | — | ⏳ |
-| 26 | Coming soon... | — | ⏳ |
-| 27 | Coming soon... | — | ⏳ |
-| 28 | Coming soon... | — | ⏳ |
-| 29 | Coming soon... | — | ⏳ |
-| 30 | Coming soon... | — | ⏳ |
-| 31–100 | More topics loading... | — | 🔒 |
+---
+
+### 🐍 01 — Python Programming
+
+| # | Topic | Code | Status |
+|---|-------|------|--------|
+| 01 | Variables, Data Types, Operators & Type Casting | [code](./Python/01_variables_datatypes_operators.py) | ✅ |
+| 02 | Conditional Statements — if, elif, else | [code](./Python/02_conditionals.py) | ✅ |
+| 03 | Loops — for, while, break, continue, nested | [code](./Python/03_loops.py) | ✅ |
+| 04 | Lists, Tuples, Sets and Dictionaries in depth | [code](./Python/04_data_structures.py) | ✅ |
+| 05 | Functions, Lambda, Map, Filter, Reduce, Zip | [code](./Python/05_functions_lambda.py) | ✅ |
+| 06 | List and Dictionary Comprehensions | [code](./Python/06_comprehensions.py) | ✅ |
+| 07 | String Manipulation and Regular Expressions | [code](./Python/07_strings_regex.py) | ✅ |
+| 08 | File Handling — read, write, CSV and JSON | [code](./Python/08_file_handling.py) | ✅ |
+| 09 | Error Handling — try/except and custom exceptions | [code](./Python/09_error_handling.py) | ✅ |
+| 10 | Mini Projects: Calculator, Quiz App, Data Parser | [code](./Python/10_mini_projects/) | ✅ |
+
+📝 [My Python Notes](./Python/notes.md)
+
+---
+
+### 🔢 02 — NumPy for Mathematics
+
+| # | Topic | Code | Status |
+|---|-------|------|--------|
+| 01 | Creating 1D, 2D and 3D Arrays — dtype, shape, reshape | [code](./NumPy/01_arrays_basics.py) | ⏳ |
+| 02 | Indexing, Slicing and Boolean Masking | [code](./NumPy/02_indexing_slicing.py) | ⏳ |
+| 03 | Aggregations — sum, mean, std, min, max across axes | [code](./NumPy/03_aggregations.py) | ⏳ |
+| 04 | Broadcasting Rules and Vectorized Operations | [code](./NumPy/04_broadcasting.py) | ⏳ |
+| 05 | Linear Algebra — dot product, matrix multiplication | [code](./NumPy/05_linear_algebra.py) | ⏳ |
+| 06 | Random Sampling — seed, randint, normal, uniform | [code](./NumPy/06_random_sampling.py) | ⏳ |
+| 07 | Statistical Functions — percentile, variance, correlation | [code](./NumPy/07_statistical_functions.py) | ⏳ |
+| 08 | Sorting, Searching and Unique Values | [code](./NumPy/08_sorting_searching.py) | ⏳ |
+| 09 | Stacking, Splitting and Concatenating Arrays | [code](./NumPy/09_stacking_splitting.py) | ⏳ |
+| 10 | Performance: NumPy vs Python loops benchmarking | [code](./NumPy/10_performance_benchmark.py) | ⏳ |
+
+📝 [My NumPy Notes](./NumPy/notes.md)
+
+---
+
+### 🐼 03 — Pandas for Data Cleaning
+
+| # | Topic | Code | Status |
+|---|-------|------|--------|
+| 01 | Series and DataFrames — creation, indexing, slicing | [code](./Pandas/01_series_dataframes.py) | ⏳ |
+| 02 | Reading data — CSV, Excel, JSON, SQL databases | [code](./Pandas/02_reading_data.py) | ⏳ |
+| 03 | Handling Missing Data — fillna, dropna, interpolate | [code](./Pandas/03_missing_data.py) | ⏳ |
+| 04 | Removing Duplicates and Detecting Outliers | [code](./Pandas/04_duplicates_outliers.py) | ⏳ |
+| 05 | Filtering, Sorting and Conditional Selection | [code](./Pandas/05_filtering_sorting.py) | ⏳ |
+| 06 | GroupBy, Aggregation and Transform functions | [code](./Pandas/06_groupby_aggregation.py) | ⏳ |
+| 07 | Pivot Tables and Cross Tabulations | [code](./Pandas/07_pivot_tables.py) | ⏳ |
+| 08 | Merging, Joining and Concatenating DataFrames | [code](./Pandas/08_merging_joining.py) | ⏳ |
+| 09 | String Operations and DateTime handling | [code](./Pandas/09_strings_datetime.py) | ⏳ |
+| 10 | Case Studies: Fitbit, Netflix, NPS, Drug Data | [code](./Pandas/10_case_studies/) | ⏳ |
+
+📝 [My Pandas Notes](./Pandas/notes.md)
+
+---
+
+### 🗄️ 04 — SQL for Data Analytics
+
+| # | Topic | Code | Status |
+|---|-------|------|--------|
+| 01 | Database Fundamentals — Tables, Schemas, Relationships | [code](./SQL/01_database_fundamentals.sql) | ⏳ |
+| 02 | SELECT, WHERE, ORDER BY and LIMIT queries | [code](./SQL/02_select_where_orderby.sql) | ⏳ |
+| 03 | Aggregate Functions — COUNT, SUM, AVG, MIN, MAX | [code](./SQL/03_aggregate_functions.sql) | ⏳ |
+| 04 | GROUP BY, HAVING and Filtering Aggregated Data | [code](./SQL/04_groupby_having.sql) | ⏳ |
+| 05 | JOINs — INNER, LEFT, RIGHT, FULL OUTER, CROSS | [code](./SQL/05_joins.sql) | ⏳ |
+| 06 | Subqueries, Nested Queries and CTEs | [code](./SQL/06_subqueries_ctes.sql) | ⏳ |
+| 07 | Window Functions — ROW_NUMBER, RANK, LEAD, LAG | [code](./SQL/07_window_functions.sql) | ⏳ |
+| 08 | CASE Statements and Conditional Logic | [code](./SQL/08_case_statements.sql) | ⏳ |
+| 09 | INSERT, UPDATE, DELETE and Data Manipulation | [code](./SQL/09_data_manipulation.sql) | ⏳ |
+| 10 | Real-world Projects — E-commerce, HR, Sales Analytics | [code](./SQL/10_real_world_projects/) | ⏳ |
+
+📝 [My SQL Notes](./SQL/notes.md)
+
+---
+
+### 🤖 05 — Generative AI for Data Analytics
+
+| # | Topic | Code | Status |
+|---|-------|------|--------|
+| 01 | Intro to GenAI — LLMs, GPT and How They Work | [code](./GenAI/01_intro_genai.py) | ⏳ |
+| 02 | Prompt Engineering for Data Tasks | [code](./GenAI/02_prompt_engineering.py) | ⏳ |
+| 03 | Using ChatGPT and Gemini for Data Cleaning | [code](./GenAI/03_chatgpt_gemini_data.py) | ⏳ |
+| 04 | Automating Reports and Summaries with GenAI | [code](./GenAI/04_automating_reports.py) | ⏳ |
+| 05 | AI-Powered Data Visualization and Insights | [code](./GenAI/05_ai_visualization.py) | ⏳ |
+| 06 | Building AI Chatbots for Business Data Queries | [code](./GenAI/06_ai_chatbots.py) | ⏳ |
+| 07 | LangChain Fundamentals — Chains, Agents, Memory | [code](./GenAI/07_langchain_basics.py) | ⏳ |
+| 08 | RAG for Enterprise Data | [code](./GenAI/08_rag_enterprise.py) | ⏳ |
+| 09 | Integrating GenAI APIs into Python Workflows | [code](./GenAI/09_genai_api_integration.py) | ⏳ |
+| 10 | Capstone: End-to-End GenAI Analytics Dashboard | [code](./GenAI/10_capstone_dashboard/) | ⏳ |
+
+📝 [My GenAI Notes](./GenAI/notes.md)
+
+---
+
+### 📊 06 — Matplotlib and Seaborn for Visualization
+
+| # | Topic | Code | Status |
+|---|-------|------|--------|
+| 01 | Line Charts, Bar Charts and Scatter Plots | [code](./Visualization/01_line_bar_scatter.py) | ⏳ |
+| 02 | Histograms, Box Plots and Violin Plots | [code](./Visualization/02_hist_box_violin.py) | ⏳ |
+| 03 | Heatmaps and Correlation Matrices | [code](./Visualization/03_heatmaps_correlation.py) | ⏳ |
+| 04 | Pair Plots and Distribution Plots with Seaborn | [code](./Visualization/04_pairplots_seaborn.py) | ⏳ |
+| 05 | Customizing Colors, Labels, Legends, Annotations | [code](./Visualization/05_customization.py) | ⏳ |
+| 06 | Subplots and Multi-chart Dashboard Layouts | [code](./Visualization/06_subplots_dashboards.py) | ⏳ |
+| 07 | Pie Charts, Donut Charts and Area Charts | [code](./Visualization/07_pie_donut_area.py) | ⏳ |
+| 08 | Time Series Visualization and Trend Lines | [code](./Visualization/08_time_series.py) | ⏳ |
+| 09 | Saving Charts — PNG, SVG, PDF | [code](./Visualization/09_saving_charts.py) | ⏳ |
+| 10 | Storytelling with Data — presenting to business | [code](./Visualization/10_data_storytelling.py) | ⏳ |
+
+📝 [My Visualization Notes](./Visualization/notes.md)
+
+---
+
+### 📈 07 — Power BI / Tableau
+
+| # | Topic | Notes | Status |
+|---|-------|-------|--------|
+| 01 | Connecting Data Sources — Excel, SQL, APIs | [notes](./PowerBI_Tableau/01_connecting_data.md) | ⏳ |
+| 02 | Data Modeling and Table Relationships | [notes](./PowerBI_Tableau/02_data_modeling.md) | ⏳ |
+| 03 | Building Interactive Dashboards and Reports | [notes](./PowerBI_Tableau/03_dashboards.md) | ⏳ |
+| 04 | DAX Formulas — CALCULATE, SUMX, FILTER, ALL | [notes](./PowerBI_Tableau/04_dax_formulas.md) | ⏳ |
+| 05 | Calculated Columns and Measures | [notes](./PowerBI_Tableau/05_columns_measures.md) | ⏳ |
+| 06 | Filters, Slicers and Drill-down Analysis | [notes](./PowerBI_Tableau/06_filters_slicers.md) | ⏳ |
+| 07 | KPI Cards, Gauges and Map Visualizations | [notes](./PowerBI_Tableau/07_kpi_maps.md) | ⏳ |
+| 08 | Row-level Security and Access Control | [notes](./PowerBI_Tableau/08_security.md) | ⏳ |
+| 09 | Publishing Dashboards to Power BI Service | [notes](./PowerBI_Tableau/09_publishing.md) | ⏳ |
+| 10 | Tableau: Worksheets, Stories and Publishing | [notes](./PowerBI_Tableau/10_tableau.md) | ⏳ |
+
+📝 [My Power BI / Tableau Notes](./PowerBI_Tableau/notes.md)
+
+---
+
+### 📗 08 — Microsoft Excel (Advanced)
+
+| # | Topic | Notes | Status |
+|---|-------|-------|--------|
+| 01 | VLOOKUP, HLOOKUP, INDEX-MATCH and XLOOKUP | [notes](./Excel/01_lookup_functions.md) | ⏳ |
+| 02 | Pivot Tables and Pivot Charts — deep dive | [notes](./Excel/02_pivot_tables.md) | ⏳ |
+| 03 | Conditional Formatting and Data Validation | [notes](./Excel/03_formatting_validation.md) | ⏳ |
+| 04 | IF, COUNTIF, SUMIF and Nested Formulas | [notes](./Excel/04_if_countif_sumif.md) | ⏳ |
+| 05 | TEXT, DATE and LOOKUP function combos | [notes](./Excel/05_text_date_lookup.md) | ⏳ |
+| 06 | Data Cleaning — Duplicates, Text to Columns | [notes](./Excel/06_data_cleaning.md) | ⏳ |
+| 07 | What-If Analysis — Goal Seek, Scenario Manager | [notes](./Excel/07_whatif_analysis.md) | ⏳ |
+| 08 | Macros and Basic VBA Automation | [notes](./Excel/08_macros_vba.md) | ⏳ |
+| 09 | Dashboard Creation for Business Reporting | [notes](./Excel/09_dashboard.md) | ⏳ |
+| 10 | Power Query — import, clean and transform data | [notes](./Excel/10_power_query.md) | ⏳ |
+
+📝 [My Excel Notes](./Excel/notes.md)
+
+---
+
+### 📐 09 — Maths for Machine Learning
+
+| # | Topic | Code | Status |
+|---|-------|------|--------|
+| 01 | Descriptive Stats — Mean, Median, Mode, Std Dev | [code](./Maths_ML/01_descriptive_stats.py) | ⏳ |
+| 02 | Probability — Bayes Theorem, Conditional Probability | [code](./Maths_ML/02_probability.py) | ⏳ |
+| 03 | Probability Distributions — Normal, Binomial, Poisson | [code](./Maths_ML/03_distributions.py) | ⏳ |
+| 04 | Hypothesis Testing — z-test, t-test, chi-square | [code](./Maths_ML/04_hypothesis_testing.py) | ⏳ |
+| 05 | Linear Algebra — Vectors, Matrices, Transformations | [code](./Maths_ML/05_linear_algebra.py) | ⏳ |
+| 06 | Linear Regression and Multiple Regression | [code](./Maths_ML/06_regression.py) | ⏳ |
+| 07 | Correlation vs Causation — Pearson and Spearman | [code](./Maths_ML/07_correlation.py) | ⏳ |
+| 08 | A/B Testing and Statistical Significance | [code](./Maths_ML/08_ab_testing.py) | ⏳ |
+| 09 | Sampling Techniques — Stratified, Random, Systematic | [code](./Maths_ML/09_sampling.py) | ⏳ |
+| 10 | Confidence Intervals and P-values explained | [code](./Maths_ML/10_confidence_intervals.py) | ⏳ |
+
+📝 [My Maths Notes](./Maths_ML/notes.md)
+
+---
+
+### ☁️ 10 — Cloud Tools and Git/GitHub
+
+| # | Topic | Notes | Status |
+|---|-------|-------|--------|
+| 01 | Git Fundamentals — init, add, commit, status, log | [notes](./Cloud_Git/01_git_basics.md) | ⏳ |
+| 02 | Branching, Merging and Resolving Conflicts | [notes](./Cloud_Git/02_branching_merging.md) | ⏳ |
+| 03 | GitHub — Repositories, Pull Requests, Code Reviews | [notes](./Cloud_Git/03_github_workflow.md) | ⏳ |
+| 04 | Collaborative Workflows — Gitflow and Forking | [notes](./Cloud_Git/04_collaboration.md) | ⏳ |
+| 05 | Google Colab — running notebooks in the cloud | [notes](./Cloud_Git/05_google_colab.md) | ⏳ |
+| 06 | AWS Basics — S3, EC2 and IAM fundamentals | [notes](./Cloud_Git/06_aws_basics.md) | ⏳ |
+| 07 | BigQuery — querying large datasets with SQL | [notes](./Cloud_Git/07_bigquery.md) | ⏳ |
+| 08 | Deploying Analytics Dashboards to the cloud | [notes](./Cloud_Git/08_deployment.md) | ⏳ |
+| 09 | Environment Setup — Jupyter, Anaconda, VS Code | [notes](./Cloud_Git/09_environment_setup.md) | ⏳ |
+| 10 | Version Control Best Practices for Data Projects | [notes](./Cloud_Git/10_best_practices.md) | ⏳ |
+
+📝 [My Cloud & Git Notes](./Cloud_Git/notes.md)
+
+---
+
+### 🏆 11 — Portfolio Building and Projects
+
+| # | Topic | Link | Status |
+|---|-------|------|--------|
+| 01 | Capstone Project with Real-world Datasets | [project](./Portfolio/01_capstone_project/) | ⏳ |
+| 02 | End-to-end Pipeline: collect → clean → analyze → visualize | [project](./Portfolio/02_end_to_end_pipeline/) | ⏳ |
+| 03 | GitHub Portfolio that recruiters notice | [project](./Portfolio/03_github_portfolio.md) | ⏳ |
+| 04 | Creating Presentation-ready Case Studies | [project](./Portfolio/04_case_studies/) | ⏳ |
+| 05 | Deploying Interactive Dashboards Online | [project](./Portfolio/05_deployed_dashboards/) | ⏳ |
+| 06 | Writing Project Documentation and README files | [project](./Portfolio/06_documentation.md) | ⏳ |
+| 07 | Data Storytelling — analysis into business insights | [project](./Portfolio/07_data_storytelling/) | ⏳ |
+| 08 | Building a Personal Analytics Blog / Website | [project](./Portfolio/08_personal_blog.md) | ⏳ |
+| 09 | Peer Code Reviews and Feedback Sessions | [project](./Portfolio/09_code_reviews.md) | ⏳ |
+| 10 | Presenting Projects — live demo best practices | [project](./Portfolio/10_presentation_tips.md) | ⏳ |
+
+📝 [My Portfolio Notes](./Portfolio/notes.md)
+
+---
+
+### 🎯 12 — Mock Interviews and Interview Prep
+
+| # | Topic | Notes | Status |
+|---|-------|-------|--------|
+| 01 | Technical Round: SQL queries and database questions | [notes](./Interview_Prep/01_sql_technical.md) | ⏳ |
+| 02 | Technical Round: Python and Pandas coding challenges | [notes](./Interview_Prep/02_python_pandas.md) | ⏳ |
+| 03 | Technical Round: Statistics and probability problems | [notes](./Interview_Prep/03_statistics.md) | ⏳ |
+| 04 | Aptitude and Logical Reasoning practice | [notes](./Interview_Prep/04_aptitude.md) | ⏳ |
+| 05 | HR Round: Salary negotiation and offer evaluation | [notes](./Interview_Prep/05_salary_negotiation.md) | ⏳ |
+| 06 | HR Round: Communication and behavioral questions | [notes](./Interview_Prep/06_behavioral.md) | ⏳ |
+| 07 | Live Mock Interviews with Industry Professionals | [notes](./Interview_Prep/07_mock_interviews.md) | ⏳ |
+| 08 | Resume Building and LinkedIn Profile Optimization | [notes](./Interview_Prep/08_resume_linkedin.md) | ⏳ |
+| 09 | 1-on-1 Feedback Sessions with mentors | [notes](./Interview_Prep/09_mentorship.md) | ⏳ |
+| 10 | Job Application Strategy — until you get hired | [notes](./Interview_Prep/10_job_strategy.md) | ⏳ |
+
+📝 [My Interview Prep Notes](./Interview_Prep/notes.md)
 
 ---
 
 ## 📁 Folder Structure
 
 ```
-100-days-of-python-data-analytics/
+data-analytics-mastery/
 │
-├── Day01_Why_Python/
+├── 📁 Python/
 │   ├── notes.md
-│   └── practice.py
+│   ├── 01_variables_datatypes_operators.py
+│   ├── 02_conditionals.py
+│   └── ...
 │
-├── Day02_Data_Types/
+├── 📁 NumPy/
 │   ├── notes.md
-│   └── practice.py
+│   └── ...
 │
-├── Day03_Type_Casting/
+├── 📁 Pandas/
 │   ├── notes.md
-│   └── practice.py
+│   └── ...
 │
-├── Day04_Conditionals/
+├── 📁 SQL/
 │   ├── notes.md
-│   └── practice.py
+│   └── ...
 │
-├── Day05_Loops/
+├── 📁 GenAI/
 │   ├── notes.md
-│   └── practice.py
+│   └── ...
 │
-├── Day06_Data_Structures/
+├── 📁 Visualization/
 │   ├── notes.md
-│   └── practice.py
+│   └── ...
 │
-├── Day07_Functions/
+├── 📁 PowerBI_Tableau/
 │   ├── notes.md
-│   └── practice.py
+│   └── ...
 │
-├── Day08_List_Comprehension/
+├── 📁 Excel/
 │   ├── notes.md
-│   └── practice.py
+│   └── ...
 │
-├── Day09_String_Methods/
+├── 📁 Maths_ML/
 │   ├── notes.md
-│   └── practice.py
+│   └── ...
 │
-├── Day10_File_Handling/
+├── 📁 Cloud_Git/
 │   ├── notes.md
-│   └── practice.py
+│   └── ...
 │
-├── Day11_Error_Handling/
+├── 📁 Portfolio/
 │   ├── notes.md
-│   └── practice.py
+│   └── ...
+│
+├── 📁 Interview_Prep/
+│   ├── notes.md
+│   └── ...
 │
 └── README.md
 ```
 
 ---
 
-## 📝 What's Inside Each Day
+## 📊 Overall Progress
 
-Every day folder has 2 files:
-
-**`notes.md`** — My personal notes & key learnings
-**`practice.py`** — Actual code I wrote that day
-
-Example from Day 02:
-```python
-# Day 2 - Data Types
-name       = "Alice"   # string
-age        = 25        # int
-gpa        = 9.2       # float
-is_student = True      # boolean
-
-print(type(name))      # <class 'str'>
-print(type(age))       # <class 'int'>
-print(type(gpa))       # <class 'float'>
-print(type(is_student))# <class 'bool'>
+```
+Python          ██████████ 100% ✅
+NumPy           ░░░░░░░░░░   0% ⏳
+Pandas          ░░░░░░░░░░   0% ⏳
+SQL             ░░░░░░░░░░   0% ⏳
+GenAI           ░░░░░░░░░░   0% ⏳
+Visualization   ░░░░░░░░░░   0% ⏳
+Power BI        ░░░░░░░░░░   0% ⏳
+Excel           ░░░░░░░░░░   0% ⏳
+Maths for ML    ░░░░░░░░░░   0% ⏳
+Cloud & Git     ░░░░░░░░░░   0% ⏳
+Portfolio       ░░░░░░░░░░   0% ⏳
+Interview Prep  ░░░░░░░░░░   0% ⏳
 ```
 
 ---
 
 ## 🌐 Follow The Journey
 
-I post daily updates on LinkedIn — the struggle, the wins, and everything in between.
+I document everything publicly on LinkedIn — the wins, the struggles, and the breakthroughs.
 
-👉 **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-HERE](https://www.linkedin.com/in/roshanraut012/)
+👉 **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-HERE](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
 
 If you're also learning — let's connect and grow together! 🙌
 
@@ -160,9 +364,9 @@ If you're also learning — let's connect and grow together! 🙌
 
 If this journey inspires you:
 - Give this repo a **Star** ⭐
-- **Follow** for daily updates
-- Share with someone who's also learning Python 🐍
+- **Follow** for updates
+- Share with someone learning data analytics 📊
 
 ---
 
-*Started: May 2025 | Goal: 100 Days | Status: In Progress 🔥*
+*Started: May 2025 | Goal: Become a Data Analyst | Status: In Progress 🔥*
