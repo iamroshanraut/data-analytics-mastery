@@ -85,7 +85,7 @@ Land a Data Analyst role by mastering the full modern stack 🚀
 | 04 | Lists, Tuples, Sets and Dictionaries in depth | [📄 code](./Python/04_data_structures.py) | ✅ |
 | 05 | Functions, Lambda, Map, Filter, Reduce, Zip | [📄 code](./Python/05_functions_lambda.py) | ✅ |
 | 06 | List and Dictionary Comprehensions | [📄 code](./Python/06_comprehensions.py) | ✅ |
-| 07 | String Manipulation and Regular Expressions | [📄 code](./Python/07_strings_regex.py) | ✅ |
+| 07 | String Manipulation and Regular Expressions | [📄 code](Python/2.Strings.ipynb) | ✅ |
 | 08 | File Handling — read, write, CSV and JSON | [📄 code](./Python/08_file_handling.py) | ✅ |
 | 09 | Error Handling — try/except and custom exceptions | [📄 code](./Python/09_error_handling.py) | ✅ |
 | 10 | Mini Projects: Calculator, Quiz App, Data Parser | [📁 code](./Python/10_mini_projects/) | ✅ |
