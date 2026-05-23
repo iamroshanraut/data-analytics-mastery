@@ -37,7 +37,7 @@ Land a Data Analyst role by mastering the full modern stack 🚀
 
 - [x] Master Python for Data Analytics
 - [ ] Data wrangling with NumPy & Pandas
-- [ ] SQL for real-world business problems
+- [x] SQL for real-world business problems
 - [ ] Generative AI integration for analytics
 - [ ] Data visualization with Matplotlib & Seaborn
 - [ ] Dashboards with Power BI & Tableau
@@ -55,7 +55,7 @@ Land a Data Analyst role by mastering the full modern stack 🚀
 | 🐍 Python | `██████████` 100% | ✅ Done |
 | 🔢 NumPy | `░░░░░░░░░░` 0% | ⏳ Active |
 | 🐼 Pandas | `░░░░░░░░░░` 0% | 🔜 Soon |
-| 🗄️ SQL | `░░░░░░░░░░` 0% | 🔜 Soon |
+| 🗄️ SQL | `█░░░░░░░░░` 0% | 🔜 Soon |
 | 🤖 GenAI | `░░░░░░░░░░` 0% | 🔜 Soon |
 | 📊 Visualization | `░░░░░░░░░░` 0% | 🔜 Soon |
 | 📈 Power BI / Tableau | `░░░░░░░░░░` 0% | 🔜 Soon |
