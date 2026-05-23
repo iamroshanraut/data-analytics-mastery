@@ -147,9 +147,9 @@ Land a Data Analyst role by mastering the full modern stack 🚀
 | # | Topic | Code | Status |
 |---|-------|------|--------|
 | 01 | Database Fundamentals — Tables, Schemas, Relationships | [📄 code](./SQL/01_database_fundamentals.sql) | ⏳ |
-| 02 | SELECT, WHERE, ORDER BY and LIMIT queries | [📄 code](./SQL/02_select_where_orderby.sql) | ⏳ |
+| 02 | SELECT, WHERE, ORDER BY and LIMIT queries | [📄 code](SQL/01_sql_basics_select_where_groupby.sql) | ⏳ |
 | 03 | Aggregate Functions — COUNT, SUM, AVG, MIN, MAX | [📄 code](./SQL/03_aggregate_functions.sql) | ⏳ |
-| 04 | GROUP BY, HAVING and Filtering Aggregated Data | [📄 code](./SQL/04_groupby_having.sql) | ⏳ |
+| 04 | GROUP BY, HAVING and Filtering Aggregated Data | [📄 code](SQL/01_sql_basics_select_where_groupby.sql) | ⏳ |
 | 05 | JOINs — INNER, LEFT, RIGHT, FULL OUTER, CROSS | [📄 code](./SQL/05_joins.sql) | ⏳ |
 | 06 | Subqueries, Nested Queries and CTEs | [📄 code](./SQL/06_subqueries_ctes.sql) | ⏳ |
 | 07 | Window Functions — ROW_NUMBER, RANK, LEAD, LAG | [📄 code](./SQL/07_window_functions.sql) | ⏳ |
