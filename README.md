@@ -101,9 +101,9 @@ Land a Data Analyst role by mastering the full modern stack 🚀
 
 | # | Topic | Code | Status |
 |---|-------|------|--------|
-| 01 | Creating 1D, 2D and 3D Arrays — dtype, shape, reshape | [📄 code](Numpy/numpy_basics 1.ipynb) | ⏳ |
-| 02 | Indexing, Slicing and Boolean Masking | [📄 code](Numpy/numpy_basics 1.ipynb) | ⏳ |
-| 03 | Aggregations — sum, mean, std, min, max across axes | [📄 code](Numpy/numpy_basics 1.ipynb) | ⏳ |
+| 01 | Creating 1D, 2D and 3D Arrays — dtype, shape, reshape | [📄 code](Numpy/numpy_basics.ipynb) | ⏳ |
+| 02 | Indexing, Slicing and Boolean Masking | [📄 code](Numpy/numpy_basics.ipynb) | ⏳ |
+| 03 | Aggregations — sum, mean, std, min, max across axes | [📄 code](Numpy/numpy_basics.ipynb) | ⏳ |
 | 04 | Broadcasting Rules and Vectorized Operations | [📄 code](./NumPy/04_broadcasting.py) | ⏳ |
 | 05 | Linear Algebra — dot product, matrix multiplication | [📄 code](./NumPy/05_linear_algebra.py) | ⏳ |
 | 06 | Random Sampling — seed, randint, normal, uniform | [📄 code](./NumPy/06_random_sampling.py) | ⏳ |
