@@ -146,8 +146,8 @@ Land a Data Analyst role by mastering the full modern stack 🚀
 
 | # | Topic | Code | Status |
 |---|-------|------|--------|
-| 01 | Database Fundamentals — Tables, Schemas, Relationships | [📄 code](farmers_market_sql_practice.sql) | ⏳ |
-| 02 | SELECT, WHERE, ORDER BY and LIMIT queries | [📄 code](farmers_market_sql_practice.sql) | ⏳ |
+| 01 | Database Fundamentals — Tables, Schemas, Relationships | 📄 [code](https://github.com/iamroshanraut/farmers-market-sql-practice/blob/main/farmers_market_sql_practice.sql) | ⏳ |
+| 02 | SELECT, WHERE, ORDER BY and LIMIT queries | 📄 [code](https://github.com/iamroshanraut/farmers-market-sql-practice/blob/main/farmers_market_sql_practice.sql) | ⏳ |
 | 03 | Aggregate Functions — COUNT, SUM, AVG, MIN, MAX | [📄 code](./SQL/03_aggregate_functions.sql) | ⏳ |
 | 04 | GROUP BY, HAVING and Filtering Aggregated Data | [📄 code](SQL/01_sql_basics_select_where_groupby.sql) | ⏳ |
 | 05 | JOINs — INNER, LEFT, RIGHT, FULL OUTER, CROSS | [📄 code](./SQL/05_joins.sql) | ⏳ |
