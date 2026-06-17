@@ -53,9 +53,9 @@ Land a Data Analyst role by mastering the full modern stack 🚀
 | Module | Progress | Status |
 |--------|----------|--------|
 | 🐍 Python | `██████████` 100% | ✅ Done |
-| 🔢 NumPy | `░░░░░░░░░░` 0% | 🔜 Soon |
+| 🔢 NumPy | `████░░░░░░` 40% | ⏳ Active  |
 | 🐼 Pandas | `░░░░░░░░░░` 0% | 🔜 Soon |
-| 🗄️ SQL | `█░░░░░░░░░` 0% | ⏳ Active |
+| 🗄️ SQL | `██░░░░░░░` 15% | ⏳ Active |
 | 🤖 GenAI | `░░░░░░░░░░` 0% | 🔜 Soon |
 | 📊 Visualization | `░░░░░░░░░░` 0% | 🔜 Soon |
 | 📈 Power BI / Tableau | `░░░░░░░░░░` 0% | 🔜 Soon |
@@ -146,8 +146,8 @@ Land a Data Analyst role by mastering the full modern stack 🚀
 
 | # | Topic | Code | Status |
 |---|-------|------|--------|
-| 01 | Database Fundamentals — Tables, Schemas, Relationships | [📄 code](./SQL/01_database_fundamentals.sql) | ⏳ |
-| 02 | SELECT, WHERE, ORDER BY and LIMIT queries | [📄 code](SQL/01_sql_basics_select_where_groupby.sql) | ⏳ |
+| 01 | Database Fundamentals — Tables, Schemas, Relationships | [📄 code]([./SQL/01_database_fundamentals.sql](https://github.com/iamroshanraut/farmers-market-sql-practice/blob/main/farmers_market_sql_practice.sql)) | ⏳ |
+| 02 | SELECT, WHERE, ORDER BY and LIMIT queries | [📄 code]([SQL/01_sql_basics_select_where_groupby.sql](https://github.com/iamroshanraut/farmers-market-sql-practice/blob/main/farmers_market_sql_practice.sql)) | ⏳ |
 | 03 | Aggregate Functions — COUNT, SUM, AVG, MIN, MAX | [📄 code](./SQL/03_aggregate_functions.sql) | ⏳ |
 | 04 | GROUP BY, HAVING and Filtering Aggregated Data | [📄 code](SQL/01_sql_basics_select_where_groupby.sql) | ⏳ |
 | 05 | JOINs — INNER, LEFT, RIGHT, FULL OUTER, CROSS | [📄 code](./SQL/05_joins.sql) | ⏳ |
