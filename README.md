@@ -52,8 +52,8 @@ Land a Data Analyst role by mastering the full modern stack 🚀
 
 | Module | Progress | Status |
 |--------|----------|--------|
-| 🐍 Python | `██████████` 100% | ✅ Done |
-| 🔢 NumPy | `████░░░░░░` 40% | ⏳ Active  |
+| 🐍 Python | `███████░░░` 70% | ⏳ Active |
+| 🔢 NumPy | `███████░░░` 70% | ⏳ Active  |
 | 🐼 Pandas | `░░░░░░░░░░` 0% | 🔜 Soon |
 | 🗄️ SQL | `██░░░░░░░` 15% | ⏳ Active |
 | 🤖 GenAI | `░░░░░░░░░░` 0% | 🔜 Soon |
