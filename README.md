@@ -101,16 +101,16 @@ Land a Data Analyst role by mastering the full modern stack 🚀
 
 | # | Topic | Code | Status |
 |---|-------|------|--------|
-| 01 | Creating 1D, 2D and 3D Arrays — dtype, shape, reshape | [📄 code](Numpy/numpy_basics.ipynb) | ⏳ |
-| 02 | Indexing, Slicing and Boolean Masking | [📄 code](Numpy/numpy_basics.ipynb) | ⏳ |
-| 03 | Aggregations — sum, mean, std, min, max across axes | [📄 code](Numpy/numpy_basics.ipynb) | ⏳ |
-| 04 | Broadcasting Rules and Vectorized Operations | [📄 code](./NumPy/04_broadcasting.py) | ⏳ |
-| 05 | Linear Algebra — dot product, matrix multiplication | [📄 code](./NumPy/05_linear_algebra.py) | ⏳ |
-| 06 | Random Sampling — seed, randint, normal, uniform | [📄 code](./NumPy/06_random_sampling.py) | ⏳ |
-| 07 | Statistical Functions — percentile, variance, correlation | [📄 code](./NumPy/07_statistical_functions.py) | ⏳ |
-| 08 | Sorting, Searching and Unique Values | [📄 code](./NumPy/08_sorting_searching.py) | ⏳ |
-| 09 | Stacking, Splitting and Concatenating Arrays | [📄 code](./NumPy/09_stacking_splitting.py) | ⏳ |
-| 10 | Performance: NumPy vs Python loops benchmarking | [📄 code](./NumPy/10_performance_benchmark.py) | ⏳ |
+| 01 | Creating 1D, 2D and 3D Arrays — dtype, shape, reshape | [📄 code](Numpy/numpy-1_.ipynb) | ⏳ |
+| 02 | Indexing, Slicing and Boolean Masking | [📄 code](Numpy/numpy-1_.ipynb) | ⏳ |
+| 03 | Aggregations — sum, mean, std, min, max across axes | [📄 code](Numpy/numpy-1_.ipynb) | ⏳ |
+| 04 | Broadcasting Rules and Vectorized Operations | [📄 code](Numpy/numpy-1_.ipynb) | ⏳ |
+| 05 | Linear Algebra — dot product, matrix multiplication | [📄 code](Numpy/numpy-1_.ipynb) | ⏳ |
+| 06 | Random Sampling — seed, randint, normal, uniform | [📄 code](Numpy/numpy-1_.ipynb) | ⏳ |
+| 07 | Statistical Functions — percentile, variance, correlation | [📄 code](Numpy/numpy-1_.ipynb) | ⏳ |
+| 08 | Sorting, Searching and Unique Values | [📄 code](Numpy/numpy-1_.ipynb) | ⏳ |
+| 09 | Stacking, Splitting and Concatenating Arrays | [📄 code](Numpy/numpy-1_.ipynb) | ⏳ |
+| 10 | Performance: NumPy vs Python loops benchmarking | [📄 code](Numpy/numpy-1_.ipynb) | ⏳ |
 
 📝 [My NumPy Notes →](./NumPy/notes.md)
 
